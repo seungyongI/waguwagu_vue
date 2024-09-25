@@ -1,1 +1,2 @@
 # waguwagu_vue
+test
